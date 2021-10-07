@@ -1,0 +1,2 @@
+# BestToWatch
+Progetto universitario (Unisa) Ingegneria del Software. Piattaforma di streaming (Best to Watch) che consenta il caricamento e la riproduzione di video: videoclip, trailer, cortometraggi, notizie, video-blog, brevi video originali, video didattici e altro ancora. Il suo scopo è quello di ospitare video realizzati direttamente dai content creator. La piattaforma è indirizzata a utenti che preferiscono l’intrattenimento online e contenuti di breve durata.
